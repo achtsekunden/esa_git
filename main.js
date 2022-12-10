@@ -1,3 +1,6 @@
+/*
+JS File for displaying christmas tree
+*/
 // gets the value from input field
 var input = document.querySelector("input#tr_height");
 // gets the value from the output field
